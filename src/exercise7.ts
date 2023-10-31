@@ -14,7 +14,7 @@
 //     "company": "Deckow-Crist"
 // }
 
-// 3.Change to all website value to look like this: "ervin-howell.com", you should use user name for it.
+// 3.Change to all website values to look like this: "ervin-howell.com", you should use user name for it.
 // {
 //     "id": 2,
 //     "name": "Ervin Howell",
@@ -28,8 +28,8 @@
 
 //4. Remove from some phone values extra text phone "(775)976-6794 x41206" => phone should look like this (775)976-6794.
 
-//5. Calculate the total characters of all username, using reduce.
+//5. Calculate the total characters of all username, using reduce().
 
-//6. Filter users if username length is smaller than 6.
+//6. Filter users if username length is smaller than 6, using filter().
 
-//7. Sort users ascending by username length.
+//7. Sort users ascending by username length, using sort().

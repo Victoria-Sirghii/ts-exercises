@@ -1,4 +1,4 @@
-//2. Fix the TS errors.
+// Fix the TS errors.
 
 export const students = [
   {

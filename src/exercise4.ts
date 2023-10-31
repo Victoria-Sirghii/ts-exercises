@@ -1,4 +1,4 @@
-//1. Implement a functions which will return a random element from different types array
+// Implement a functions which will return a random element from different types array
 
 function getRandomElement() {}
 
