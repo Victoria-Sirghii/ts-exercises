@@ -1,4 +1,4 @@
-//s Fix the TS errors.
+//Fix the TS errors.
 
 export const users = [
   {

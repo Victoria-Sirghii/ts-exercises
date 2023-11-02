@@ -14,7 +14,7 @@
 //     "company": "Deckow-Crist"
 // }
 
-// 3.Change to all website values to look like this: "ervin-howell.com", you should use user name for it.
+// 3.Change all website values to look like this: "ervin-howell.com", you should use name for it.
 // {
 //     "id": 2,
 //     "name": "Ervin Howell",
@@ -26,7 +26,7 @@
 //     "company": "Deckow-Crist"
 // }
 
-//4. Remove from some phone values extra text phone "(775)976-6794 x41206" => phone should look like this (775)976-6794.
+//4. Remove from some phone values extra text "(775)976-6794 x41206" => phone should look like this (775)976-6794.
 
 //5. Calculate the total characters of all username, using reduce().
 
