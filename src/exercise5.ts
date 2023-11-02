@@ -1,4 +1,4 @@
-// Fix the TS errors.
+// Fix the TS errors using generics.
 
 const students = [
   {

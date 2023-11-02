@@ -20,7 +20,7 @@
 //     "name": "Ervin Howell",
 //     "username": "Antonette",
 //     "email": "Shanna@melissa.tv",
-//     "phone": "City - Wisokyburgh, Street - Victor Plains, Suite - Suite 879,  Zip-code - 0566-7771"
+//     "address": "City - Wisokyburgh, Street - Victor Plains, Suite - Suite 879,  Zip-code - 0566-7771"
 //     "phone": "010-692-6593 x09125",
 //     "website": "ervin-howell.com",
 //     "company": "Deckow-Crist"
@@ -30,6 +30,6 @@
 
 //5. Calculate the total characters of all username, using reduce().
 
-//6. Filter users if username length is smaller than 6, using filter().
+//6. Filter users with username length smaller than 6, using filter().
 
 //7. Sort users ascending by username length, using sort().

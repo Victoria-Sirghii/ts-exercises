@@ -1,4 +1,4 @@
-//Create a type for user using Admin interface
+//Create a type for regularUser using Admin interface
 
 interface Admin {
   username: string;
@@ -7,7 +7,7 @@ interface Admin {
   nationality: string;
 }
 
-const user = {
+const regularUser = {
   username: "simple.user",
   password: "aaaaaaa",
 };
